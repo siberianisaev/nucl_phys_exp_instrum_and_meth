@@ -1,2 +1,3 @@
-# NuclExpMeth
-Приборы и техника ядерно-физического эксперимента
+# Lecture Course
+
+Nuclear physics experiment instruments and methods
